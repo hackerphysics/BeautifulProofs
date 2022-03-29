@@ -1,2 +1,3 @@
-# BeautifulProofs
-Collections of beautiful proofs in the world.
+# 惊艳一击
+
+收集数学物理领域的绝妙证明。
